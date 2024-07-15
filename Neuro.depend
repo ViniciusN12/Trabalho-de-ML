@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1442643957 source:/home/thielo/Desktop/backprop/Neuro/backprop.cpp
+	"layer.h"
+	<cstdlib>
+	<cstdio>
+	<iostream>
+	<cmath>
+
+1442644684 /home/thielo/Desktop/backprop/Neuro/layer.h
+	<cstdio>
+	<cstdlib>
+
+1442644085 source:/home/thielo/Desktop/backprop/Neuro/layer.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"layer.h"
+
